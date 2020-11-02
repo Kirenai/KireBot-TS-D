@@ -1,0 +1,5 @@
+export * from './BotCom'
+export * from './BotCuadrado'
+export * from './BotLove'
+export * from './BotTemperatures'
+export * from './BotChristmas'
