@@ -1,12 +1,13 @@
 {
   "name": "discord-ts-bot",
-  "version": "1.0.0",
+  "version": "0.1.2",
   "description": "Creando un bot con JS en TS",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
-    "dev": "nodemon -e ts --exec \"npm run build && npm start\""
+    "dev": "nodemon -e ts --exec \"npm run build && npm start\"",
+    "devv": "nodemon dist/index.js"
   },
   "keywords": ["Bot", "Practica"],
   "author": "Kirenai",

@@ -1,5 +1,5 @@
 import { Client } from 'discord.js';
-import Bot from './bot/bot';
+import Bot from './app/Bot';
 
 //Metodo principal
 const main = () => {
